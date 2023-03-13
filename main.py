@@ -18,4 +18,4 @@ async def on_message(message):
         else:
             await message.channel.send("Na tuto roly nemáš permise.")
 
-client.run("MTA0Mjg1NDE2Mjc3OTYwMjk4NQ.GRAhA8.0L-xbtVsq6uL-Ey4q2ZmMEsOtBisIzCI1Yfi0k")
+client.run("Your-Token")
